@@ -1,2 +1,4 @@
 # soudabe-shabanpour
-biography
+Network expert
+Computer teacher
+Entrepreneurial mentor
